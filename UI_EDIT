@@ -35,7 +35,7 @@ local RunService = game:GetService("RunService")
 local LocalPlayer = game:GetService("Players").LocalPlayer
 local Mouse = LocalPlayer:GetMouse()
 getgenv().Settings = {
-	Key = Enum.KeyCode.LeftContral
+	Key = Enum.KeyCode.LeftControl
 }
 local function MakeDraggable(topbarobject, object)
 	local Dragging = nil
