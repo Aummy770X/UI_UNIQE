@@ -35,7 +35,7 @@ local RunService = game:GetService("RunService")
 local LocalPlayer = game:GetService("Players").LocalPlayer
 local Mouse = LocalPlayer:GetMouse()
 getgenv().Settings = {
-	Key = Enum.KeyCode.Delete
+	Key = Enum.KeyCode.LeftContral
 }
 local function MakeDraggable(topbarobject, object)
 	local Dragging = nil
@@ -402,7 +402,7 @@ function Library.xova()
 	Title.Position = UDim2.new(0.0882352963, 0, 0, 0)
 	Title.Size = UDim2.new(0, 483, 0, 31)
 	Title.Font = Enum.Font.GothamMedium
-	Title.Text = "Secret HUB"
+	Title.Text = "Quarterly Hub"
 	Title.TextColor3 = Color3.fromRGB(255, 255, 255)
 	Title.TextSize = 14.000
 	Title.TextWrapped = true
