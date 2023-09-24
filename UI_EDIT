@@ -393,7 +393,7 @@ function Library.xova()
 	Logo.BackgroundTransparency = 1.000
 	Logo.Position = UDim2.new(0.0439999998, 0, 0.5, 0)
 	Logo.Size = UDim2.new(0, 35, 0, 35)
-	Logo.Image = "rbxassetid://14742039447"
+	Logo.Image = "rbxassetid://12295878669"
 
 	Title.Name = "Title"
 	Title.Parent = Topbar
@@ -1162,7 +1162,7 @@ function Library.xova()
 					LockIcon.BackgroundTransparency = 1.000
 					LockIcon.Position = UDim2.new(0.5, 0, 0.5, 0)
 					LockIcon.Size = UDim2.new(0, 0, 0, 0)
-					LockIcon.Image = "http://www.roblox.com/asset/?id=14742039447"
+					LockIcon.Image = "http://www.roblox.com/asset/?id=12295878669"
 
 					function visual.togglefunction.lock()
 						visual.lock = false
@@ -1377,7 +1377,7 @@ function Library.xova()
 					LockIcon.BackgroundTransparency = 1.000
 					LockIcon.Position = UDim2.new(0.5, 0, 0.5, 0)
 					LockIcon.Size = UDim2.new(0, 0, 0, 0)
-					LockIcon.Image = "http://www.roblox.com/asset/?id=14742039447"
+					LockIcon.Image = "http://www.roblox.com/asset/?id=12295878669"
 
 					function visual.togglefunction.ChangeDesc(value)
 						ToggleDesc.Text = tostring(value)
