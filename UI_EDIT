@@ -300,7 +300,7 @@ function Library.xova()
 	KeyButton.Position = UDim2.new(0.816176474, 0, 0.0122137405, 0)
 	KeyButton.Size = UDim2.new(0, 94, 0, 23)
 	KeyButton.Font = Enum.Font.GothamMedium
-	KeyButton.Text = "[ Delete ]"
+	KeyButton.Text = "[ LeftContral ]"
 	KeyButton.TextColor3 = Color3.fromRGB(255, 255, 255)
 	KeyButton.TextSize = 12.000
 	KeyButton.TextTransparency = 0.500
